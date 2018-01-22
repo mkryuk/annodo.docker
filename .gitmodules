@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:mkryuk/annodo.client.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:mkryuk/annodo.nginx.git
+[submodule "server"]
+	path = server
+	url = git@github.com:mkryuk/annodo.server.git
